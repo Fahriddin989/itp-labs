@@ -1,5 +1,10 @@
 # ITP Internet Technology and Protocol 2425
 
+
+Hi everyone from 18.10.2024
+
+
+
 This text we have added during the lecture 3 (2122)
 
 This text added on 2023-12-01
